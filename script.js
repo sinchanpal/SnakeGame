@@ -13,7 +13,7 @@ let snakeArr = [
 
 let foodItem = { x: 7, y: 9 }
 
-let speed = 5;
+let speed = 6;
 let score = 0;
 let lastPaintTime = 0;
 
