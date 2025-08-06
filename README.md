@@ -44,6 +44,4 @@ SnakeGame/
 
 Made with 💻 by **Sinchan Pal**
 
-## 🙌 Credits
 
-Made with 💻 by **Sinchan Pal**
